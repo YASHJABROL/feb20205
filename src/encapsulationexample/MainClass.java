@@ -12,6 +12,8 @@ public class MainClass {
         student1.setGender("male");
         student1.setGrade("A");
 
+
+
         System.out.println(student1);
         System.out.println(student1.getEmail());
         System.out.println(student1.getGender());
